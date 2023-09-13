@@ -1,0 +1,265 @@
+{
+    "chartParametersStore": {
+        "type": "scatter",
+        "legendEnabled": false,
+        "inverted": false,
+        "title": "HSSP Test chart",
+        "subtitle": "",
+        "xAxisTitle": "",
+        "xAxisType": "linear",
+        "xAxisVisible": true,
+        "xAxisMin": "",
+        "xAxisMax": "",
+        "yAxisTitle": "Values",
+        "yAxisType": "linear",
+        "yAxisVisible": true,
+        "yAxisMin": "",
+        "yAxisMax": "",
+        "seriesLabelsEnabled": false,
+        "sharedTooltipEnabled": true,
+        "zoomType": "x",
+        "dataGroupingType": "default"
+    },
+    "seriesParametersStore": {
+        "seriesParameters": {}
+    },
+    "dataStore": {
+        "tableCSV": "x;y\r\n0.8;68.5\r\n0.8;57.9\r\n6.3;68.2\r\n6.3;58.0\r\n11.7;67.5\r\n11.7;58.1\r\n17.3;68.0\r\n17.3;58.2\r\n22.6;67.2\r\n22.6;58.3\r\n28.2;58.3\r\n28.2;66.9\r\n33.7;66.9\r\n33.7;58.3\r\n39.1;66.1\r\n39.1;58.3\r\n44.7;58.2\r\n44.7;65.7\r\n50.0;58.1\r\n50.0;66.0\r\n55.6;65.5\r\n55.6;58.0\r\n61.2;65.5\r\n61.2;57.9\r\n66.5;64.7\r\n66.5;57.7\r\n72.1;64.7\r\n72.1;57.5\r\n77.5;57.3\r\n77.5;63.9\r\n83.0;57.1\r\n83.0;63.7\r\n88.6;56.8\r\n88.6;64.3\r\n94.0;63.1\r\n94.0;56.6\r\n99.5;63.3\r\n99.5;56.2\r\n",
+        "textDescription": "",
+        "selectedDataSource": "csv",
+        "spreadsheetSetupComplete": false,
+        "googleSpreadsheetURL": "",
+        "googleApiKey": "",
+        "googleAutoUpdateEnabled": false,
+        "googleAutoUpdateFrequency": 10,
+        "googleSheetStatus": 0,
+        "googleSheetErrorMessage": "",
+        "dataSourcesList": [
+            {
+                "name": "Grid",
+                "value": "table"
+            },
+            {
+                "name": "Google Sheets",
+                "value": "googlesheets"
+            }
+        ],
+        "tableRowData": [
+            {
+                "A": "x",
+                "B": "y"
+            },
+            {
+                "A": "0.8",
+                "B": "68.5"
+            },
+            {
+                "A": "0.8",
+                "B": "57.9"
+            },
+            {
+                "A": "6.3",
+                "B": "68.2"
+            },
+            {
+                "A": "6.3",
+                "B": "58.0"
+            },
+            {
+                "A": "11.7",
+                "B": "67.5"
+            },
+            {
+                "A": "11.7",
+                "B": "58.1"
+            },
+            {
+                "A": "17.3",
+                "B": "68.0"
+            },
+            {
+                "A": "17.3",
+                "B": "58.2"
+            },
+            {
+                "A": "22.6",
+                "B": "67.2"
+            },
+            {
+                "A": "22.6",
+                "B": "58.3"
+            },
+            {
+                "A": "28.2",
+                "B": "58.3"
+            },
+            {
+                "A": "28.2",
+                "B": "66.9"
+            },
+            {
+                "A": "33.7",
+                "B": "66.9"
+            },
+            {
+                "A": "33.7",
+                "B": "58.3"
+            },
+            {
+                "A": "39.1",
+                "B": "66.1"
+            },
+            {
+                "A": "39.1",
+                "B": "58.3"
+            },
+            {
+                "A": "44.7",
+                "B": "58.2"
+            },
+            {
+                "A": "44.7",
+                "B": "65.7"
+            },
+            {
+                "A": "50.0",
+                "B": "58.1"
+            },
+            {
+                "A": "50.0",
+                "B": "66.0"
+            },
+            {
+                "A": "55.6",
+                "B": "65.5"
+            },
+            {
+                "A": "55.6",
+                "B": "58.0"
+            },
+            {
+                "A": "61.2",
+                "B": "65.5"
+            },
+            {
+                "A": "61.2",
+                "B": "57.9"
+            },
+            {
+                "A": "66.5",
+                "B": "64.7"
+            },
+            {
+                "A": "66.5",
+                "B": "57.7"
+            },
+            {
+                "A": "72.1",
+                "B": "64.7"
+            },
+            {
+                "A": "72.1",
+                "B": "57.5"
+            },
+            {
+                "A": "77.5",
+                "B": "57.3"
+            },
+            {
+                "A": "77.5",
+                "B": "63.9"
+            },
+            {
+                "A": "83.0",
+                "B": "57.1"
+            },
+            {
+                "A": "83.0",
+                "B": "63.7"
+            },
+            {
+                "A": "88.6",
+                "B": "56.8"
+            },
+            {
+                "A": "88.6",
+                "B": "64.3"
+            },
+            {
+                "A": "94.0",
+                "B": "63.1"
+            },
+            {
+                "A": "94.0",
+                "B": "56.6"
+            },
+            {
+                "A": "99.5",
+                "B": "63.3"
+            },
+            {
+                "A": "99.5",
+                "B": "56.2"
+            }
+        ]
+    },
+    "globalSonifyParametersStore": {
+        "volume": 70,
+        "speed": 79,
+        "order": "simultaneous",
+        "playMarkerEnabled": true,
+        "tooltipMarkerEnabled": false,
+        "minNote": 36,
+        "maxNote": 90,
+        "panEnabled": true,
+        "panWidth": 100,
+        "detail": 15,
+        "contexts": [
+            {
+                "valueInterval": 1,
+                "valueMultiplier": 1,
+                "valueMultiplierName": "milliseconds",
+                "valueProp": "x",
+                "playWhenType": "never",
+                "playWhenThreshold": 0,
+                "playWhenMin": 0,
+                "playWhenMax": 0,
+                "instrument": "chop",
+                "pitchType": "fixed",
+                "pitchMappingProp": "y",
+                "pitchMappingValue": 0,
+                "pitchNote": 60,
+                "volume": 70,
+                "noteDuration": 300,
+                "pan": 50,
+                "id": 1,
+                "showDetails": true
+            }
+        ]
+    },
+    "viewStore": {
+        "reactToParameterUpdates": 2,
+        "reactToDataUpdates": 2,
+        "showChartComponent": true,
+        "loadingChart": false,
+        "selectedHeaderTabContent": "chartContent",
+        "selectedHeaderTabId": "Chart",
+        "selectedSidebarTabId": "Visual",
+        "sidebarVisible": true,
+        "showGridTools": false,
+        "playbackProgress": 0,
+        "selectedDataSeriesChartMapping": "",
+        "selectedDataSeriesAudioMapping": "",
+        "expandedGlobalAudioBasicAccordionItem": true,
+        "expandedGlobalAudioDefaultsAccordionItem": false,
+        "expandedGlobalAudioContextsAccordionItem": false,
+        "expandedSeriesAudioAccordionItems": {
+            "Instrument": true
+        },
+        "expandedChartMappingsAccordionItems": {
+            "Basic": true
+        }
+    },
+    "appVersion": "1.0.4",
+    "storeVersion": 4
+}

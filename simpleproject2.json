@@ -1,0 +1,107 @@
+{
+  "chartParametersStore": {
+    "type": "areaspline",
+    "legendEnabled": false,
+    "inverted": false,
+    "title": "HSSP Test chart",
+    "subtitle": "",
+    "xAxisTitle": "",
+    "xAxisType": "linear",
+    "xAxisVisible": true,
+    "xAxisMin": "",
+    "xAxisMax": "",
+    "yAxisTitle": "Values",
+    "yAxisType": "linear",
+    "yAxisVisible": true,
+    "yAxisMin": "",
+    "yAxisMax": "",
+    "seriesLabelsEnabled": false,
+    "sharedTooltipEnabled": true,
+    "zoomType": "x",
+    "dataGroupingType": "default"
+  },
+  "seriesParametersStore": {
+    "seriesParameters": {}
+  },
+  "dataStore": {
+    "tableCSV": "x;y\r\n0;0.000\r\n1;0.164\r\n2;2\r\n3;1.262\r\n4;1.944\r\n5;2.489\r\n6;6\r\n7;2.531\r\n8;1.829\r\n9;0.635\r\n10;-0.953\r\n11;-2.757\r\n12;-4.541\r\n13;-6.039\r\n14;-6.993\r\n15;-7.192\r\n16;-6.507\r\n17;-4.915\r\n18;-2.515\r\n19;0.476\r\n20;3.742\r\n21;6.898\r\n22;9.542\r\n23;11.299\r\n24;11.872\r\n25;11.091\r\n26;8.938\r\n27;5.564\r\n28;1.278\r\n29;-3.473\r\n30;-8.160\r\n31;-12.224\r\n32;-15.142\r\n33;-16.500\r\n34;-16.039\r\n35;-13.705\r\n36;-9.658\r\n37;-4.272\r\n38;1.902\r\n39;8.193\r\n40;13.879\r\n41;18.273\r\n42;20.803\r\n43;21.088\r\n44;18.987\r\n45;14.631\r\n46;8.416\r\n47;0.970\r\n48;-6.910\r\n49;-14.342\r\n50;-20.461\r\n51;-24.516\r\n52;-25.961\r\n53;-24.531\r\n54;-20.277\r\n55;-13.574\r\n56;-5.092\r\n57;4.272\r\n58;13.489\r\n59;21.511\r\n60;27.388\r\n61;30.385\r\n62;30.064\r\n63;26.355\r\n64;19.564\r\n65;10.362\r\n66;-0.292\r\n67;-11.241\r\n68;-21.260\r\n69;-29.195\r\n70;-34.089\r\n71;-35.306\r\n72;-32.601\r\n73;-26.168\r\n74;-16.627\r\n75;-4.963\r\n76;7.571\r\n77;19.593\r\n78;29.740\r\n79;36.824\r\n80;39.973\r\n81;38.733\r\n82;33.134\r\n83;23.695\r\n84;11.378\r\n85;-2.506\r\n86;-16.441\r\n87;-28.868\r\n88;-38.362\r\n89;-43.793\r\n90;-44.461\r\n91;-40.185\r\n92;-31.330\r\n93;-18.788\r\n94;-3.877\r\n95;11.786\r\n96;26.468\r\n97;38.510\r\n98;46.512\r\n99;49.496\r\n100;47.026\r\n101;39.269\r\n102;26.983\r\n103;11.449\r\n104;-5.664\r\n105;-22.480\r\n106;-37.116\r\n107;-47.900\r\n108;-53.556\r\n109;-53.359\r\n110;-47.221\r\n111;-35.716\r\n112;-20.030\r\n113;-1.833\r\n114;16.893\r\n115;34.072\r\n116;47.763\r\n117;56.382\r\n118;58.881\r\n119;54.878\r\n120;44.707\r\n121;29.396\r\n122;10.563\r\n123;-9.755\r\n124;-29.323\r\n125;-45.950\r\n126;-57.741\r\n127;-63.306\r\n128;-61.928\r\n129;-53.649\r\n130;-39.283\r\n131;-20.332\r\n132;1.168\r\n133;22.867\r\n134;42.356\r\n135;57.436\r\n136;66.365\r\n137;68.059\r\n138;62.223\r\n139;49.397\r\n140;30.902\r\n141;8.712\r\n142;-14.762\r\n143;-36.931\r\n144;-55.314\r\n145;-67.818\r\n146;-72.971\r\n147;-70.101\r\n148;-59.415\r\n149;-41.993\r\n150;-19.678\r\n151;5.119\r\n152;29.679\r\n153;51.273\r\n154;67.465\r\n155;76.388\r\n156;76.957\r\n157;69.001\r\n158;53.293\r\n159;31.476\r\n160;5.894\r\n161;-20.663\r\n162;-45.262\r\n163;-65.149\r\n164;-78.061\r\n165;-82.480\r\n166;-77.811\r\n167;-64.463\r\n168;-43.810\r\n169;-18.055\r\n170;10.007\r\n171;37.292\r\n172;60.767\r\n173;77.783\r\n174;86.380",
+    "textDescription": "",
+    "selectedDataSource": "csv",
+    "spreadsheetSetupComplete": false,
+    "googleSpreadsheetURL": "",
+    "googleApiKey": "",
+    "googleAutoUpdateEnabled": false,
+    "googleAutoUpdateFrequency": 10,
+    "googleSheetStatus": 0,
+    "googleSheetErrorMessage": "",
+    "dataSourcesList": [
+      {
+        "name": "Grid",
+        "value": "table"
+      },
+      {
+        "name": "Google Sheets",
+        "value": "googlesheets"
+      }
+    ]
+  },
+  "globalSonifyParametersStore": {
+    "volume": 70,
+    "speed": 79,
+    "order": "simultaneous",
+    "playMarkerEnabled": true,
+    "tooltipMarkerEnabled": false,
+    "minNote": 36,
+    "maxNote": 90,
+    "panEnabled": true,
+    "panWidth": 100,
+    "detail": 15,
+    "contexts": [
+      {
+        "valueInterval": 1,
+        "valueMultiplier": 1,
+        "valueMultiplierName": "milliseconds",
+        "valueProp": "x",
+        "playWhenType": "never",
+        "playWhenThreshold": 0,
+        "playWhenMin": 0,
+        "playWhenMax": 0,
+        "instrument": "chop",
+        "pitchType": "fixed",
+        "pitchMappingProp": "y",
+        "pitchMappingValue": 0,
+        "pitchNote": 60,
+        "volume": 70,
+        "noteDuration": 300,
+        "pan": 50,
+        "id": 1,
+        "showDetails": true
+      }
+    ]
+  },
+  "viewStore": {
+    "reactToParameterUpdates": 2,
+    "reactToDataUpdates": 2,
+    "showChartComponent": true,
+    "loadingChart": false,
+    "selectedHeaderTabContent": "chartContent",
+    "selectedHeaderTabId": "Chart",
+    "selectedSidebarTabId": "Visual",
+    "sidebarVisible": true,
+    "showGridTools": false,
+    "playbackProgress": 0,
+    "selectedDataSeriesChartMapping": "",
+    "selectedDataSeriesAudioMapping": "",
+    "expandedGlobalAudioBasicAccordionItem": true,
+    "expandedGlobalAudioDefaultsAccordionItem": false,
+    "expandedGlobalAudioContextsAccordionItem": false,
+    "expandedSeriesAudioAccordionItems": {
+      "Instrument": true
+    },
+    "expandedChartMappingsAccordionItems": {
+      "Basic": true
+    }
+  },
+  "appVersion": "1.0.4",
+  "storeVersion": 4
+}

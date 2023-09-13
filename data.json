@@ -1,0 +1,289 @@
+{
+    "chartParametersStore": {
+        "type": "scatter",
+        "legendEnabled": false,
+        "inverted": false,
+        "title": "line_graph_og_l2s",
+        "subtitle": "",
+        "xAxisTitle": "",
+        "xAxisType": "linear",
+        "xAxisVisible": true,
+        "xAxisMin": "",
+        "xAxisMax": "",
+        "yAxisTitle": "Values",
+        "yAxisType": "linear",
+        "yAxisVisible": true,
+        "yAxisMin": "",
+        "yAxisMax": "",
+        "seriesLabelsEnabled": false,
+        "sharedTooltipEnabled": true,
+        "zoomType": "x",
+        "dataGroupingType": "default"
+    },
+    "seriesParametersStore": {
+        "seriesParameters": {}
+    },
+    "dataStore": {
+        "tableCSV": "\"(x;y)\";Textual Information\r\n\"(4.5; 16.3)\";raxis label\r\n\"(4.8; 48.7)\";raxis label\r\n\"(8.6; 16.6)\";yaxis_label\r\n\"(8.9; 47.4)\";\r\n\"(12.7; 46.2)\";\r\n\"(13.0; 16.9)\";\r\n\"(16.8; 17.2)\";\r\n\"(17.1; 44.7)\";\r\n\"(21.0; 17.5)\";\r\n\"(21.2; 42.0)\";\r\n\"(25.1; 39.5)\";\r\n\"(25.3; 17.8)\";\r\n\"(29.4; 37.1)\";\r\n\"(29.4; 17.9)\";\r\n\"(33.6; 36.0)\";\r\n\"(33.6; 18.0)\";\r\n\"(37.4; 35.8)\";\r\n\"(37.7; 18.2)\";\r\n\"(41.8; 33.8)\";\r\n\"(42.0; 18.2)\";\r\n\"(45.6; 31.2)\";\r\n\"(45.9; 18.2)\";\r\n\"(49.8; 29.4)\";\r\n\"(54.1; 27.7)\";\r\n\"(54.1; 18.2)\";\r\n\"(58.0; 25.2)\";\r\n\"(58.2; 18.0)\";\r\n\"(62.1; 22.6)\";\r\n\"(62.4; 17.9)\";\r\n\"(66.2; 20.8)\";\r\n\"(66.5; 17.8)\";\r\n\"(70.3; 18.9)\";\r\n\"(70.6; 18.0)\";\r\n\"(74.7; 17.0)\";\r\n\"(78.6; 15.4)\";\r\n\"(78.6; 17.2)\";\r\n\"(82.7; 16.7)\";\r\n\"(82.9; 14.5)\";\r\n\"(87.1; 16.4)\";\r\n\"(87.6; 12.8)\";\r\n\"(91.7; 16.0)\";\r\n\"(92.7; 10.5)\";\r\n\"(97.3; 15.4)\";\r\n\"(98.1; 8.1)\";\r\n",
+        "textDescription": "",
+        "selectedDataSource": "csv",
+        "spreadsheetSetupComplete": false,
+        "googleSpreadsheetURL": "",
+        "googleApiKey": "",
+        "googleAutoUpdateEnabled": false,
+        "googleAutoUpdateFrequency": 10,
+        "googleSheetStatus": 0,
+        "googleSheetErrorMessage": "",
+        "dataSourcesList": [
+            {
+                "name": "Grid",
+                "value": "table"
+            },
+            {
+                "name": "Google Sheets",
+                "value": "googlesheets"
+            }
+        ],
+        "tableRowData": [
+            {
+                "A": "(x,y)",
+                "B": "Textual Information"
+            },
+            {
+                "A": "(4.5, 16.3)",
+                "B": "raxis label"
+            },
+            {
+                "A": "(4.8, 48.7)",
+                "B": "raxis label"
+            },
+            {
+                "A": "(8.6, 16.6)",
+                "B": "yaxis_label"
+            },
+            {
+                "A": "(8.9, 47.4)",
+                "B": ""
+            },
+            {
+                "A": "(12.7, 46.2)",
+                "B": ""
+            },
+            {
+                "A": "(13.0, 16.9)",
+                "B": ""
+            },
+            {
+                "A": "(16.8, 17.2)",
+                "B": ""
+            },
+            {
+                "A": "(17.1, 44.7)",
+                "B": ""
+            },
+            {
+                "A": "(21.0, 17.5)",
+                "B": ""
+            },
+            {
+                "A": "(21.2, 42.0)",
+                "B": ""
+            },
+            {
+                "A": "(25.1, 39.5)",
+                "B": ""
+            },
+            {
+                "A": "(25.3, 17.8)",
+                "B": ""
+            },
+            {
+                "A": "(29.4, 37.1)",
+                "B": ""
+            },
+            {
+                "A": "(29.4, 17.9)",
+                "B": ""
+            },
+            {
+                "A": "(33.6, 36.0)",
+                "B": ""
+            },
+            {
+                "A": "(33.6, 18.0)",
+                "B": ""
+            },
+            {
+                "A": "(37.4, 35.8)",
+                "B": ""
+            },
+            {
+                "A": "(37.7, 18.2)",
+                "B": ""
+            },
+            {
+                "A": "(41.8, 33.8)",
+                "B": ""
+            },
+            {
+                "A": "(42.0, 18.2)",
+                "B": ""
+            },
+            {
+                "A": "(45.6, 31.2)",
+                "B": ""
+            },
+            {
+                "A": "(45.9, 18.2)",
+                "B": ""
+            },
+            {
+                "A": "(49.8, 29.4)",
+                "B": ""
+            },
+            {
+                "A": "(54.1, 27.7)",
+                "B": ""
+            },
+            {
+                "A": "(54.1, 18.2)",
+                "B": ""
+            },
+            {
+                "A": "(58.0, 25.2)",
+                "B": ""
+            },
+            {
+                "A": "(58.2, 18.0)",
+                "B": ""
+            },
+            {
+                "A": "(62.1, 22.6)",
+                "B": ""
+            },
+            {
+                "A": "(62.4, 17.9)",
+                "B": ""
+            },
+            {
+                "A": "(66.2, 20.8)",
+                "B": ""
+            },
+            {
+                "A": "(66.5, 17.8)",
+                "B": ""
+            },
+            {
+                "A": "(70.3, 18.9)",
+                "B": ""
+            },
+            {
+                "A": "(70.6, 18.0)",
+                "B": ""
+            },
+            {
+                "A": "(74.7, 17.0)",
+                "B": ""
+            },
+            {
+                "A": "(78.6, 15.4)",
+                "B": ""
+            },
+            {
+                "A": "(78.6, 17.2)",
+                "B": ""
+            },
+            {
+                "A": "(82.7, 16.7)",
+                "B": ""
+            },
+            {
+                "A": "(82.9, 14.5)",
+                "B": ""
+            },
+            {
+                "A": "(87.1, 16.4)",
+                "B": ""
+            },
+            {
+                "A": "(87.6, 12.8)",
+                "B": ""
+            },
+            {
+                "A": "(91.7, 16.0)",
+                "B": ""
+            },
+            {
+                "A": "(92.7, 10.5)",
+                "B": ""
+            },
+            {
+                "A": "(97.3, 15.4)",
+                "B": ""
+            },
+            {
+                "A": "(98.1, 8.1)",
+                "B": ""
+            }
+        ]
+    },
+    "globalSonifyParametersStore": {
+        "volume": 70,
+        "speed": 79,
+        "order": "simultaneous",
+        "playMarkerEnabled": true,
+        "tooltipMarkerEnabled": false,
+        "minNote": 36,
+        "maxNote": 90,
+        "panEnabled": true,
+        "panWidth": 100,
+        "detail": 15,
+        "contexts": [
+            {
+                "valueInterval": 1,
+                "valueMultiplier": 1,
+                "valueMultiplierName": "milliseconds",
+                "valueProp": "x",
+                "playWhenType": "never",
+                "playWhenThreshold": 0,
+                "playWhenMin": 0,
+                "playWhenMax": 0,
+                "instrument": "chop",
+                "pitchType": "fixed",
+                "pitchMappingProp": "y",
+                "pitchMappingValue": 0,
+                "pitchNote": 60,
+                "volume": 70,
+                "noteDuration": 300,
+                "pan": 50,
+                "id": 1,
+                "showDetails": true
+            }
+        ]
+    },
+    "viewStore": {
+        "reactToParameterUpdates": 2,
+        "reactToDataUpdates": 2,
+        "showChartComponent": true,
+        "loadingChart": false,
+        "selectedHeaderTabContent": "chartContent",
+        "selectedHeaderTabId": "Chart",
+        "selectedSidebarTabId": "Visual",
+        "sidebarVisible": true,
+        "showGridTools": false,
+        "playbackProgress": 0,
+        "selectedDataSeriesChartMapping": "",
+        "selectedDataSeriesAudioMapping": "",
+        "expandedGlobalAudioBasicAccordionItem": true,
+        "expandedGlobalAudioDefaultsAccordionItem": false,
+        "expandedGlobalAudioContextsAccordionItem": false,
+        "expandedSeriesAudioAccordionItems": {
+            "Instrument": true
+        },
+        "expandedChartMappingsAccordionItems": {
+            "Basic": true
+        }
+    },
+    "appVersion": "1.0.4",
+    "storeVersion": 4
+}
